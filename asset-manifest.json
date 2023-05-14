@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f39da19c.css",
-    "main.js": "/static/js/main.421c87ac.js",
+    "main.css": "/static/css/main.e4299fc7.css",
+    "main.js": "/static/js/main.88476265.js",
     "static/js/787.f8a0dea2.chunk.js": "/static/js/787.f8a0dea2.chunk.js",
     "static/media/profile.png": "/static/media/profile.934fb44b54bc17262ed3.png",
+    "static/media/github.svg": "/static/media/github.5d17edba565f34e730aeaf0fec2bba6d.svg",
     "index.html": "/index.html",
-    "main.f39da19c.css.map": "/static/css/main.f39da19c.css.map",
-    "main.421c87ac.js.map": "/static/js/main.421c87ac.js.map",
+    "static/media/skype.svg": "/static/media/skype.c4246d81995dcaebf426c0d656cad6d7.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.b38bde1871e473a4c0021b765947408b.svg",
+    "static/media/gitlab.svg": "/static/media/gitlab.c48b0ee315baf0afb2ff84328ea53583.svg",
+    "static/media/telegram.svg": "/static/media/telegram.dcaf2b936270790bd364e3114b2ab2c6.svg",
+    "static/media/twitter.svg": "/static/media/twitter.e9dc03fa49ce3478f3f95f1f1ddad3b0.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.105953379cae0b982579206f06690f94.svg",
+    "static/media/stackoverflow.svg": "/static/media/stackoverflow.155068f079f9705e29852875fcd7925e.svg",
+    "main.e4299fc7.css.map": "/static/css/main.e4299fc7.css.map",
+    "main.88476265.js.map": "/static/js/main.88476265.js.map",
     "787.f8a0dea2.chunk.js.map": "/static/js/787.f8a0dea2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f39da19c.css",
-    "static/js/main.421c87ac.js"
+    "static/css/main.e4299fc7.css",
+    "static/js/main.88476265.js"
   ]
 }
